@@ -1,0 +1,14 @@
+.NavigationBar {
+  display: flex;
+  justify-content: center;
+  flex: 1 1 auto;
+}
+
+.NavigationLink {
+  padding: 15px 25px;
+  font-size: 20px;
+}
+
+.NavigationLinkActive {
+  color: rgb(75, 255, 7);
+}
